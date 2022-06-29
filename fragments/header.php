@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>TuCode Inc Solutions - Official Site</title>
+  <title>KYAF - Official Site</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
