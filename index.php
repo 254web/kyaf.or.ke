@@ -11,7 +11,7 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-4">
-          <h2 data-aos="fade-up">Solutions We Can Trust - We Apologies For The InCovinience</h2>
+          <h2 data-aos="fade-up">Solutions We Can Trust - We Apologies For The InCovenience</h2>
           <blockquote data-aos="fade-up" data-aos-delay="100">
             <p>We Are Sorting Things Out For This Site, Get In Touch info@tucode.co.ke 
               <a href="https://wa.me/254759184063">wa.me/254759184063</a>
