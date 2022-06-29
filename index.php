@@ -27,6 +27,8 @@
     </div>
   </section><!-- End Hero Section -->
 
+  <?php include "fragments/footer.php";?>
+
 </body>
 
 </html>
